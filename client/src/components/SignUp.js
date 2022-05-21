@@ -111,7 +111,7 @@ export default function SignUp() {
                   required
                   fullWidth
                   name="contact"
-                  type="number"
+                  type="string"
                   label="Contact"
                   autoComplete="contact"
                 />
@@ -122,7 +122,7 @@ export default function SignUp() {
                   required
                   fullWidth
                   name="HouseNumber"
-                  type="number"
+                  type="string"
                   label="House Number"
                   autoComplete="house number"
                 />
